@@ -1,0 +1,15 @@
+"renameTitle" = "Rename";
+"deleteTitle" = "Delete";
+"newWord" = "New Word";
+"cancelTitle" = "Cancel";
+"wordTitle" = "Word";
+"hintTitle" = "Hint";
+"newNotebookName" = "New List";
+"newFolderName" = "New Folder";
+"zeroState" = "First one to go";
+"foldersTitle" = "Folders";
+"sortAlertTitle" = "Sort Words";
+"sortAlertMessage" = "How you want them sorted?";
+"sortAlphabetically" = "Alphabetically";
+"sortRandomly" = "Randomly";
+"sortCancel" = "Don't sort";

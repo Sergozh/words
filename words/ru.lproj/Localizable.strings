@@ -1,0 +1,15 @@
+"renameTitle" = "Изменить";
+"deleteTitle" = "Удалить";
+"newWord" = "Новое слово";
+"cancelTitle" = "Отменить";
+"wordTitle" = "Слово";
+"hintTitle" = "Подсказка";
+"newNotebookName" = "Новый список";
+"newFolderName" = "Новая папка";
+"zeroState" = "Добавить первое слово";
+"foldersTitle" = "Папки";
+"sortAlertTitle" = "Порядок слов";
+"sortAlertMessage" = "В каком порядке расположить слова?";
+"sortAlphabetically" = "По алфавиту";
+"sortRandomly" = "В случайном порядке";
+"sortCancel" = "Оставить как есть";
